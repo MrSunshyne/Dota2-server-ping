@@ -1,4 +1,5 @@
 # Dota 2 Server Ping
+[Click to download the file](https://github.com/MrSunshyne/Dota2-server-ping/raw/master/Dota2ServerPing.bat)
 
 ## List of servers
 ### Provided by friends from the [MRU Dota 2 Group](https://www.facebook.com/groups/182167728583397/permalink/314677865332382/)

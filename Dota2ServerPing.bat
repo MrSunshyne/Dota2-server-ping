@@ -8,7 +8,7 @@ echo.This script was written by Mr.Sunshyne for MRU gamers.
 echo.
 echo What would you like to do?
 echo.
-echo 1. List all my ping.
+echo 1. Ping all the Dota2 Servers.
 echo 2. Watch the world burn.
 echo 0. Quit
 echo.
@@ -100,5 +100,6 @@ cls
 goto start
 
 :burnworld
-http://google.com
+echo.Please wait. The Asgards are coming.
+pause
 
